@@ -35,6 +35,7 @@ body {
   -o-filter: blur(10px);
   -ms-filter: blur(10px);
   filter: blur(10px);
+  transform: scale(1.1);
 }
 
 h1 {
